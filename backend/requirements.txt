@@ -10,3 +10,5 @@ pydantic-settings==2.6.1
 python-dotenv==1.0.1
 httpx==0.28.0
 websockets==14.1
+pandas==2.2.3
+pandas-ta==0.3.14b
